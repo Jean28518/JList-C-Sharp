@@ -1,4 +1,6 @@
-# JList:
+# JList C#:
+Simple List Tool - Perfect for your C# Project
+
 ## Attributes:
 - **int active**: Stores the index of the active element
 - **List list**: Stores the actual Data, and can be also accessed. [Manual](https://docs.microsoft.com/de-de/dotnet/api/system.collections.generic.list-1?view=net-5.0)
